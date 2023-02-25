@@ -23,5 +23,35 @@ I have performed data cleaning on the dataset using the following standard techn
 You can find the code for these data cleaning techniques in the clean.ipynb notebook.
 
 
-## Generate a query that answers a predetermined business question(s)
+## 2. Generate a query that answers a predetermined business question(s)
+
+Queries for all the below questions are in queries.ipynb
+### 1. Which brand saw the most dollars spent in the month of June?
+
+ ![image](https://user-images.githubusercontent.com/117230607/221328666-c3511211-3226-4c27-b469-56f4a825a0b2.png)
+
+Kirkland signatures saw the most dollars spent in June
+
+### 2. Which user spent the most money in the month of August?
+
+![image](https://user-images.githubusercontent.com/117230607/221328887-ec258b96-51f1-49ad-8eca-eb616f3b7580.png)
+
+### 3. What user bought the most expensive item?
+
+![image](https://user-images.githubusercontent.com/117230607/221328986-550e7641-a5b4-44bf-8d53-52782f8dcfe7.png)
+
+### 4. What is the name of the most expensive item purchased?
+
+![image](https://user-images.githubusercontent.com/117230607/221329019-f0940c89-914a-4381-9e90-92d373d4c52e.png)
+
+Startbucks is the most expensive item purchased
+
+### 5. How many users scanned in each month?
+
+![image](https://user-images.githubusercontent.com/117230607/221329058-e2956a8a-b412-4822-857a-fc0e44458e0e.png)
+
+
+## 3. Choose something noteworthy about the data and share with a non-technical stakeholder
+
+
 

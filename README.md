@@ -53,5 +53,21 @@ Startbucks is the most expensive item purchased
 
 ## 3. Choose something noteworthy about the data and share with a non-technical stakeholder
 
+### Data Quality
+
+Following are some noteworthy points on the quality of the data extracted. These have to be addressed to enhance it's quality.
+1. We can find data to be null for a significant portion for many attributes across all tables.
+2. Most of the barcode data in recepit item is missing in brands. 
+3. As shown below, we can observe that a given brand has inconsistent barcode and brand code across Brands and receipt item tables. For example, Mott's fruit snacks
+
+![image](https://user-images.githubusercontent.com/117230607/221339266-6e897b24-b8db-4a0c-8947-74028b6048f6.png)
 
 
+### Burlington August Sales
+
+
+Sales of most brands like Amazon, Walmart are slightly high during the end of Year. This is expected due to the hoilday season but for retailers like Burlington we see the sales are insanely high for August and following are the possible reasons for that:
+1. August is typically the time of year when students are preparing for the upcoming school year which leads to increased demand for clothing, backpacks, and other items sold by Burlington.
+2. Burlington, offer end-of-season sales in August to clear out inventory and make room for new merchandise.
+
+![image](https://user-images.githubusercontent.com/117230607/221339977-6e14123d-2857-4cba-a2d6-e09eebe22665.png)
